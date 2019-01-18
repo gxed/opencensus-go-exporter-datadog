@@ -1,0 +1,24 @@
+{
+  "author": "lanzafame",
+  "bugs": {
+    "url": "github.com/Datadog/opencensus-go-exporter-datadog"
+  },
+  "gx": {
+    "dvcsimport": "github.com/Datadog/opencensus-go-exporter-datadog"
+  },
+  "gxDependencies": [
+    {
+      "author": "lanzafame",
+      "hash": "Qme1cqqYLpKctFY24oTVdG7xR5ziFNqTmhtU2XfZ3D1a1p",
+      "name": "opencensus-go",
+      "version": "0.0.1"
+    }
+  ],
+  "gxVersion": "0.14.0",
+  "language": "go",
+  "license": "",
+  "name": "opencensus-go-exporter-datadog",
+  "releaseCmd": "git commit -a -m \"gx publish $VERSION\"",
+  "version": "0.0.2"
+}
+
